@@ -1,0 +1,56 @@
+{
+    "name": "lotus-menu",
+    "version": "1.0.0",
+    "description": "A beautiful, interactive radial navigation menu that displays as a lotus flower. Built with pure CSS/JavaScript for smooth animations and intuitive user experience.",
+    "main": "menu.html",
+    "keywords": [
+        "menu",
+        "navigation",
+        "radial",
+        "lotus",
+        "flower",
+        "css",
+        "javascript",
+        "interactive",
+        "ui",
+        "ux",
+        "circular",
+        "animation"
+    ],
+    "author": "Lotus Menu Contributors",
+    "license": "MIT",
+    "homepage": "https://github.com/yourusername/lotus-menu#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/lotus-menu.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yourusername/lotus-menu/issues"
+    },
+    "files": [
+        "menu.html",
+        "index.html",
+        "css/",
+        "js/",
+        "img/",
+        "README.md",
+        "LICENSE",
+        "CHANGELOG.md"
+    ],
+    "scripts": {
+        "start": "python -m http.server 8000 || python3 -m http.server 8000",
+        "serve": "npx serve .",
+        "demo": "open index.html || start index.html || xdg-open index.html"
+    },
+    "devDependencies": {
+        "serve": "^14.0.0"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "> 1%",
+        "not dead"
+    ]
+}
