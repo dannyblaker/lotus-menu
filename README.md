@@ -1,10 +1,14 @@
-# Lotus Menu 🌸
+# Lotus Menu
 
 A beautiful, interactive radial navigation menu that displays as a lotus flower. Built with pure CSS/JavaScript for smooth animations and intuitive user experience.
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
-![Lotus Menu Demo](img/flower.png)
+## Demo
+
+[Watch the video](readme_assets/demo.mp4)
+
+![Lotus Menu Demo](readme_assets/demo.png)
 
 ## ✨ Features
 
