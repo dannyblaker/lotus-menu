@@ -23,7 +23,7 @@ A lotus flower that functions as an interactive radial navigation menu that expa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lotus-menu.git
+git clone https://github.com/dannyblaker/lotus-menu.git
 cd lotus-menu
 ```
 
