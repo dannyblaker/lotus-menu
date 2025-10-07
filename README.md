@@ -1,6 +1,6 @@
 # Lotus Menu
 
-A beautiful lotus flower that functions as an interactive radial navigation menu that expands the user hovers their mouse from one petal to another. It is built with CSS, JavaScript and Jquery.
+A beautiful lotus flower that functions as an interactive radial navigation menu that expands as the user hovers their mouse from one flower petal to another. It is built with CSS, JavaScript and Jquery.
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
