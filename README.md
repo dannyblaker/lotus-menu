@@ -6,7 +6,7 @@ A lotus flower that functions as an interactive radial navigation menu that expa
 
 ## Demo
 
-[Watch the video](https://github.com/dannyblaker/lotus-menu/raw/refs/heads/main/readme_assets/demo.mp4)
+[Download then watch the video](https://github.com/dannyblaker/lotus-menu/raw/refs/heads/main/readme_assets/demo.mp4)
 
 ![Lotus Menu Demo](readme_assets/demo.png)
 
